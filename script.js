@@ -15,3 +15,4 @@ const typed = new Typed(".text", {
 function myfunction(){
     document.getElementById("demo").innerHTML=""
 }
+
